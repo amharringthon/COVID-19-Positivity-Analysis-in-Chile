@@ -59,7 +59,7 @@ To run this project, you need:
 - Required libraries: `pandas`, `numpy`, `matplotlib`, `datetime`
 - Jupyter Notebook or any Python IDE
 
-### **Running the Analysis**
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/amharringthon/COVID-19-Positivity-Analysis-in-Chile.git
+## **Acknowledgments**
+This project is based on open-source datasets provided by the **Ministry of Science of Chile**.  
+The analysis and insights were developed as part of an academic research initiative.
+
