@@ -3,6 +3,9 @@
 ## 📌 **Project Overview**
 This project is part of the **Python for Data Science** course in a master's degree program. The objective was to analyze **COVID-19 positivity rates across different regions in Chile**, focusing on **data processing, visualization, and the implementation of a function to calculate positivity rates** based on publicly available datasets.
 
+🔗 **Full Project Report on Notion:**  
+[Python Data Analysis – COVID-19 Positivity in Chile](https://www.notion.so/Python-Data-Analysis-COVID-19-Positivity-Analysis-in-Chile-10fe124aeb7981b7ac5ee1c9f93daeb2)
+
 ## 🎯 **Objectives**
 ### 🔹 **Function**
 Develop a function that calculates the **positivity rate by region in Chile** for a specific date provided as an input. The calculation is based on three datasets:
